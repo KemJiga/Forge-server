@@ -2,7 +2,7 @@
 Este repositorio contiene información relevante, asi como los mods necesarios del lado del cliente para ingresar al servidor.
 
 ## Información del servidor
-Dirección de acceso: 34.95.218.82:25565
+Dirección de acceso: Consultar al interno o al correo kemerjg@gmail.com.
 
 **Importante:** El servidor esta ejecutando la version 1.20.1 con [forge 47.3.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) (descargar la recomendada). Es **necesario** que las versiones, tanto de minecraft como de forge, sean las anteriormente mencionadas, para evitar errores de inicio de sesión.
 
