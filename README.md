@@ -1,8 +1,8 @@
 # Forge-server-mods
-Este repositorio contiene información relevante, asi como los mods necesarios del lado del cliente necesarios para ingresar al servidor.
+Este repositorio contiene información relevante, asi como los mods necesarios del lado del cliente para ingresar al servidor.
 
 ## Información del servidor
-Direccion de acceso: 34.95.218.82:25565
+Dirección de acceso: 34.95.218.82:25565
 
 **Importante:** El servidor esta ejecutando la version 1.20.1 con forge 47.3.0. Es **necesario** que las versiones, tanto de minecraft como de forge, sean las anteriormente mencionadas, para evitar errores de inicio de sesión.
 
