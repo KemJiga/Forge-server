@@ -4,7 +4,7 @@ Este repositorio contiene información relevante, asi como los mods necesarios d
 ## Información del servidor
 Dirección de acceso: 34.95.218.82:25565
 
-**Importante:** El servidor esta ejecutando la version 1.20.1 con {[forge 47.3.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) (descargar la recomendada). Es **necesario** que las versiones, tanto de minecraft como de forge, sean las anteriormente mencionadas, para evitar errores de inicio de sesión.
+**Importante:** El servidor esta ejecutando la version 1.20.1 con [forge 47.3.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) (descargar la recomendada). Es **necesario** que las versiones, tanto de minecraft como de forge, sean las anteriormente mencionadas, para evitar errores de inicio de sesión.
 
 ## Como instalar
 Paso 1: Descargue el zip o clona el repositorio.
