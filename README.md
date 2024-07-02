@@ -1,4 +1,4 @@
-# Forge-server-mods
+# Forge-server
 Este repositorio contiene información relevante, asi como los mods necesarios del lado del cliente para ingresar al servidor.
 
 ## Información del servidor
